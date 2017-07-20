@@ -8,7 +8,7 @@ body {
 }
 #container {
 	position: relative;
-	width: 600px;
+	width: 700px;
 	height: 400px;
 	border: 1px solid #333;
 	overflow: hidden;
@@ -16,12 +16,12 @@ body {
 #list {
 	position: absolute;
 	z-index: 1;
-	width: 3600px;
+	width: 4200px;
 	height: 400px;
 }
 #list img {
 	float: left;
-	width: 600px;
+	width: 700px;
 	height: 400px;
 }
 #buttons {
